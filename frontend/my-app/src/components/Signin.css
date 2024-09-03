@@ -1,0 +1,83 @@
+.signin-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  
+  .signin-header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .signin-header h1 {
+    font-size: 32px;
+    margin-bottom: 10px;
+  }
+  
+  .signin-header p a {
+    color: #0073e6;
+    text-decoration: none;
+  }
+  
+  .signin-form {
+    width: 100%;
+    max-width: 400px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .input-field {
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .capture-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+  }
+  
+  .capture-box {
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+    border: 2px dashed #0073e6;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+  }
+  
+  .capture-button {
+    padding: 10px 20px;
+    background-color: #0073e6;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .signin-options {
+    margin-bottom: 15px;
+  }
+  
+  .signin-button {
+    padding: 10px 20px;
+    background-color: #0073e6;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  .captured-image {
+    width: 100%;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
